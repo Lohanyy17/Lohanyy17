@@ -1,14 +1,14 @@
 ## Olá, eu sou a Lohany e seja bem-vindo ao meu perfil🖤
 
-## Sobre mim 
+##  Sobre mim 
 <i> Sou estudante de Desenvolvimento de Sistemas pelo SENAI, com maior afinidade por design e desenvolvimento front-end. Tenho conhecimento em HTML, CSS, JavaScript, Python e SQLite, e estou sempre em busca de aprimorar minhas habilidades técnicas e criativas. <i>
 
 
-## Tecnologias e Ferramentas 
+## 🎥 Tecnologias e Ferramentas 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,sqlite,vscode)](https://skillicons.dev)
 
-## Estatísticas 
+## 📈 Estatísticas 
 
 <div align="center">
 <a href="https://github.com/Lohanyy17">
@@ -17,11 +17,11 @@
 </a>
 </div>
 
-## Entre em contato 
+## 🗯 Entre em contato 
 
-- LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/)
-- Email: lohanypmacedo@gmail.com
-- Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
+🖥- LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/)
+✉- Email: lohanypmacedo@gmail.com
+📽- Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
   
 
 
