@@ -19,7 +19,7 @@
 
 ## 🗯 Entre em contato 
 
-🖥 - LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/) <br>
+🖥 - LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/lohany-macedo-854489368/) <br>
 ✉ - Email: lohanypmacedo@gmail.com <br>
 📽 - Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
   
