@@ -16,5 +16,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohanyy17&layout=compact&langs_count=10&theme=dracula"/>
 </a>
 </div>
+
+## Entre em contato 
+
+- LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/)
+- Email: lohanypmacedo@gmail.com
+- Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
+  
+
+
  
 
