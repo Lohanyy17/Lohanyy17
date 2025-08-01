@@ -11,7 +11,7 @@
 ## 📈 Estatísticas 
 
 <div align="center">
-<a href="https://github.com/Lohanyy17">
+<a href="https://github.com/Lohanyy17"> <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lohanyy17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohanyy17&layout=compact&langs_count=10&theme=dracula"/>
 </a>
@@ -19,9 +19,9 @@
 
 ## 🗯 Entre em contato 
 
-🖥- LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/)
-✉- Email: lohanypmacedo@gmail.com
-📽- Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
+🖥 - LinkdIn: [in/lohany-macedo](https://www.linkedin.com/in/daniel-petinice/) <br>
+✉ - Email: lohanypmacedo@gmail.com <br>
+📽 - Portfólio: [Lohanyy](https://portfolio-99n7.onrender.com/)
   
 
 
